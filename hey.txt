@@ -1,1 +1,2 @@
 hey i am original txt
+and i am updated using vim command 
